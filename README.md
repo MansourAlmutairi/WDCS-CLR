@@ -5,6 +5,8 @@ Here My Practical Part in WDCS Project
 📌 Project Overview
 
 This project demonstrates a complete Machine Learning workflow—from data acquisition and exploratory data analysis (EDA) to feature engineering, pipeline creation, model training, and performance evaluation.
+
+
 📊 Dataset Information
 
     Source: iWildCam Dataset accessed via kagglehub.
