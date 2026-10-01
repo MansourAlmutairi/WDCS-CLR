@@ -35,12 +35,3 @@ This project demonstrates a complete Machine Learning workflow—from data acqui
 
 Test Accuracy 	[ 0.43 / 43.69% ]
 
-🧩 Confusion Matrix
-
-Confusion Matrix
-📁 Repository Structure
-
-├── notebook.ipynb          # Full Google Colab notebook with executed cells
-├── requirements.txt        # Required Python packages
-├── README.md               # Project documentation
-└── models/                 # Saved trained model artifacts (.joblib)
